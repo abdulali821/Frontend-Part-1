@@ -1,4 +1,72 @@
 body{
     background-color: #47497A;
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+.navbar{
+    position: relative;
+    top: 10px;
+    height: 50px;
+}
+
+.navbar ul li{
+    font-size: 16px;
+    display: inline;
+    justify-content: end;
+    padding: 0px 30px 0px 30px;
+    color: white;
+}
+
+.fb{
+    position: absolute;
+    left: 89%;
+    height: 30px;
+    width: 30px;
+}
+
+.twitter{
+    position: absolute;
+    left: 92%;
+    height: 30px;
+    width: 30px;
+}
+
+.insta{
+    position: absolute;
+    left: 95%;
+    height: 30px;
+    width: 30px;
+}
+
+.main-head h1{
+    height: 40px;
+    width: 450px;
+    position: absolute;
+    left: 200px;
+    top: 180px;
+    color: white;
+    font-size: 65px;
+}
+
+.buttons button{
+    position: absolute;
+    top: 400px;
+    left: 210px;
+    background-color: transparent;
+    height: 40px;
+    width: 120px;
+    color: orange;
+    border-radius: 20px;
+    border: 2px solid white;
+}
+
+.front-img img{
+    position: absolute;
+    left: 58%;
+    top: 10%;
+    height: 540px;
+    width: 540px;
 }
 
