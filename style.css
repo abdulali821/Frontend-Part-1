@@ -54,11 +54,12 @@ body{
     position: absolute;
     top: 400px;
     left: 210px;
-    background-color: transparent;
+    background-color: #47497A;
     height: 40px;
     width: 120px;
     color: orange;
     border-radius: 20px;
+    cursor: pointer;
     border: 2px solid white;
 }
 
